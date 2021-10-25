@@ -6,3 +6,4 @@ const producto3 =new String("monitor 27 Pulgadas");
 console.log(producto);
 console.log(producto2);
 console.log(producto3);
+
